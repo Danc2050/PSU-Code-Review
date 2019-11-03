@@ -26,5 +26,11 @@ Please abide by the following guidelines:
 # How do I become a Code Reviewer?
 Please email danc2@pdx.edu for code reviewer privileges
 
+# Does this mean you own my code?
+No. The owner(s) of this repository make no claim to own any of the IP shared within this repository. The original writer retains all rights to their code.
+
+_See [the license file](LICENSE) for more details._
+
 # Extranneous Notes
 1) This is not affiliated with PSU, but is a community-driven service by PSU students and for PSU students
+2) See [Coding Standards](coding_standards.md) for a list of style guides and standards that are common in the industry.
