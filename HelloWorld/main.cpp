@@ -3,7 +3,7 @@ using namespace std;
 
 //Source: https://www.javatpoint.com/prime-number-program-in-cpp
 
-int isPrime(int n)
+static int isPrime(int n)
 {
 int m = n / 2;
 m=n/2;  
