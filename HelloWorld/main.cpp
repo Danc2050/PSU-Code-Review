@@ -5,7 +5,7 @@ using namespace std;
 
 int isPrime(int n)
 {
-int i, m=0;
+int m = n / 2;
 m=n/2;  
 for(i=2; i <= m; i++)  
 {  
